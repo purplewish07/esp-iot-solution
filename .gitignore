@@ -27,8 +27,8 @@ docs/*/man/
 docs/doxygen_sqlite3.db
 
 # Example project files
-examples/**/sdkconfig
-examples/**/sdkconfig.old
+#examples/**/sdkconfig
+#examples/**/sdkconfig.old
 examples/**/build
 
 # Unit test app files
